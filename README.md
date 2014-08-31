@@ -1,9 +1,9 @@
-JS_Code.zip contains 2 simplay coding assignments. 
+1 - JS_Code.zip -> Contains 2 JavaScript examples. 
 
 HangMan.html
-HangMan.txt - Description of assignment.
+HangMan.txt - Description of JavaScript code.
 
 CountWords.html 
-CountWords.txt - Description of assignment.
+CountWords.txt - Description of JavaScript code.
 
-folder resp contains a basic responsive web page.
+2 - The Folder resp contains a responsive web page.
