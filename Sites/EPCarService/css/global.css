@@ -1,0 +1,166 @@
+html {
+  font-family: Verdana,Arial;
+}
+
+header {
+	background-color: #2C5463;
+	height: 68px;
+}
+
+nav {
+	width: 960px;
+	margin: auto;
+	padding: 15px 10px;
+}
+
+nav ul {
+  font-family: Arial, Verdana;
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav ul li {
+  display: block;
+  position: relative;
+  float: left;
+}
+
+nav ul li a {
+  display: block;
+  text-decoration: none;
+  padding: 7px 15px 3px 15px;
+  background: #2C5463;
+  color: #ffffff;  
+  margin-left: 1px;
+  white-space: nowrap;
+  height:30px; /* Width and height of top-level nav items */
+  text-align:center;
+}
+
+nav ul li[class="menu"] a:hover { 
+  background: #617F8A; 
+}
+
+.currentPage { 
+  background: #617F8A; 
+}
+
+div.menu {
+	float: right;
+}
+
+body {
+	background-color: Gray;	
+	margin: auto;
+}
+
+h4 {
+	font-size: 22px;
+	margin-top: -25px;
+	width: 475px;
+}
+
+section {
+	width: 960px;
+	margin: auto;
+}
+
+.titlePhone {
+	float: right;
+	font-size: 40px;
+}
+
+.titlePhone a {
+	text-decoration: none;
+	color: #000;
+}
+
+a[href^="tel:"]:before {
+    content: "\260E";
+    color: #000;
+    margin-right: 0.5em;
+}
+
+.logoFont {
+	font-family: 'Tangerine', serif;
+	font-size: 40px;
+}
+.logoFontSmall {
+	font-family: Arial, Verdana;
+	font-size: 12px;
+}
+
+li.logoFont {
+	margin-right: 221px;
+}
+
+section img {
+	float: right;
+}
+
+.bodyCopy {
+	line-height: 26px;
+}
+
+footer {
+	background-color: #2C5463;
+	height: 70px;
+}
+
+footer section {
+	width: 960px;
+	margin: auto;
+	color: #ffffff;  
+	font-size: 24px;
+}
+
+footer section p {
+	display: block;
+}
+
+p.copyright {
+	font-size: 10px;
+	color: #c0c0c0;
+}
+
+footer section a {
+	font-size: 22px;
+	text-decoration: none;
+	color: #ffffff;
+	margin-top: 10px;
+	display: inline-block;
+}
+
+footer section p a {
+	text-decoration: none;
+	font-size: 12px;
+	color:#c0c0c0;
+}
+
+.webCompany {
+	font-size: 12px;
+	margin-top: 40px;
+}
+
+p.webCompany {
+	color:#c0c0c0;
+	float: right;
+	margin-top: 20px;
+}
+
+/***********************************/
+/************* Policies ************/
+thead {
+	border-style:solid;
+}
+
+th, tr td {
+	color: #ffffff;
+	background-color: #2C5463;
+}
+
+td {
+	padding: .5em 1em;
+}
