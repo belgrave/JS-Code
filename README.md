@@ -10,4 +10,4 @@ CountWords.html, CountWords.txt
 
 4 - Folder "Sites" -> Contains web sites I have designed and coded.
 
-5- Sample Design Proposal -> https://drive.google.com/file/d/0B_rnrgD9vuysTG1KUGR0M2JLY2M/view?usp=sharing
+5- General Assembly Visual Design Course: My Design Process -> https://docs.google.com/presentation/d/1ibLp0OBSFn3XSvZyD-VHESXXdibSQ1EQOVGT6G3jc-8/edit#slide=id.p
