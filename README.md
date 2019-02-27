@@ -12,8 +12,8 @@ http://www.belgraveh.com/portfolio/bh/Code/JavaScript/Accordion/accordion.html
 
 - Images of Pages built with JSP, JSTL, HTML, CSS, JavaScript from Bloomingdales.com
   http://www.belgraveh.com/portfolio/bh/Code/Bloomingdales.com/loyallist_enrollment.png
-  http://www.belgraveh.com/portfolio/bh/Code/Bloomingdales.com/Ployallist_accountassociation_1.png
-  http://www.belgraveh.com/portfolio/bh/Code/Bloomingdales.com/loyallist_accountassociation_1.png
+  http://www.belgraveh.com/portfolio/bh/Code/Bloomingdales.com/Ployallist_accountassociation.png
+  http://www.belgraveh.com/portfolio/bh/Code/Bloomingdales.com/loyallist_accountassociation.png
 
 - Folder "resp" -> Contains a Responsive web page.
 
