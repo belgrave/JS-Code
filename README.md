@@ -17,8 +17,6 @@ http://www.belgraveh.com/portfolio/bh/Code/JavaScript/Accordion/accordion.html
 
 - Contains a Responsive web page -> http://htmlpreview.github.io/?https://github.com/belgrave/JS-Code/blob/master/resp/indexResponsive.html
 
-- Contains wireframes for web sites.
-
 - EPCarService -> http://htmlpreview.github.io/?https://github.com/belgrave/JS-Code/blob/master/Sites/EPCarService/index.html
 
 - Oakwood Heights HOA -> http://www.oakwoodheightshoa.org/
