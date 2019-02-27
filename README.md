@@ -1,8 +1,8 @@
 - JS_Code.zip -> Contains 2 JavaScript examples.
 
-HangMan.html, HangMan.txt
+  HangMan.html, HangMan.txt
 
-CountWords.html, CountWords.txt
+  CountWords.html, CountWords.txt
 
 - Sortable table built with prototype.js
 http://www.belgraveh.com/portfolio/bh/Code/JavaScript/OO%20JS/TableBuilder.html
