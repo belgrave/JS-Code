@@ -25,5 +25,7 @@ http://www.belgraveh.com/portfolio/bh/Code/JavaScript/Accordion/accordion.html
 
 - General Assembly Visual Design Course: My Design Process -> https://docs.google.com/presentation/d/1ibLp0OBSFn3XSvZyD-VHESXXdibSQ1EQOVGT6G3jc-8/edit#slide=id.p
 
+- Noble Dragon Design web site -> http://www.nobledragondesign.com/
 
+- CSS demo site --> http://belgraveh.com/pf/s1/
 
