@@ -13,3 +13,10 @@ CountWords.html, CountWords.txt
 5 - Oakwood Heights HOA -> http://www.oakwoodheightshoa.org/
 
 6 - General Assembly Visual Design Course: My Design Process -> https://docs.google.com/presentation/d/1ibLp0OBSFn3XSvZyD-VHESXXdibSQ1EQOVGT6G3jc-8/edit#slide=id.p
+
+7 - Sortable table built with prototype.js
+http://www.belgraveh.com/portfolio/bh/Code/JavaScript/OO%20JS/TableBuilder.html
+
+8 - Accordion effect built with YUI2
+http://www.belgraveh.com/portfolio/bh/Code/JavaScript/Accordion/accordion.html
+
