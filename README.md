@@ -29,3 +29,4 @@ http://www.belgraveh.com/portfolio/bh/Code/JavaScript/Accordion/accordion.html
 
 - HTML-Email in gmail --> http://belgraveh.com/pf/HTML-Email/html-email-screenshot-2019.03.13.png
   Source for HTML-Email in gmail --> http://belgraveh.com/pf/HTML-Email/inlinedCSS-html-email-summer.html
+  Cert of Completion HTML-Email --> http://belgraveh.com/pf/HTML-Email/HTML-Email-Cert-of-Completion.png
